@@ -1,4 +1,5 @@
-![CR-1](https://github.com/user-attachments/assets/5b3f4530-df7d-4f27-abe2-4a9259ddf62a)
+![CR-2](https://github.com/user-attachments/assets/77a4d99a-9524-4322-9482-3f6833d9b2a0)
+
 
 ## 🥁 CarnaCode 2026 - Desafio 02 - Builder
 
